@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="/index.css">
+<script>
+function toggleMenu() {
+  var element = document.getElementById("navlinks");
+  element.classList.toggle("hidden");
+}
+
+</script>
+</head>
+<body>
+<header>
+<div class="bg-blue-400 drop-shadow-lg">
+  <nav class="flex items-center justify-between flex-wrap bg-teal-500 p-6">
+  <div class="flex items-center flex-shrink-0 text-white mr-6">
+    <span class="font-semibold text-xl tracking-tight">WaterLeakGuide.com</span>
+  </div>
+  <div class="block sm:hidden">
+    <button class="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white" onclick="toggleMenu()">
+      <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
+    </button>
+  </div>
+  <div class="w-full block flex-grow sm:flex sm:items-center sm:w-auto">
+    <div id="navlinks" class="hidden sm:block text-sm">
+      <a href="#responsive-header" class="block mt-4 sm:inline-block sm:mt-0 text-teal-200 hover:text-white mr-4">
+        Docs
+      </a>
+      <a href="#responsive-header" class="block mt-4 sm:inline-block sm:mt-0 text-teal-200 hover:text-white mr-4">
+        Examples
+      </a>
+      <a href="#responsive-header" class="block sm-4 sm:inline-block sm:mt-0 text-teal-200 hover:text-white">
+        Blog
+      </a>
+    </div>
+    <div class="hidden">
+      <a href="#" class="inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white mt-4 lg:mt-0">Download</a>
+    </div>
+  </div>
+  </nav>
+</div>
+</header>
+
+<div id="left-sidebar" class="grid grid-cols-12 gap-4">
+  <div class="col-span-full md:col-span-3 sm:col-span-3 menu">
+    
+</div>
+<article class="col-span-full md:col-span-6 sm:col-span-9 border-l-2 border-r-2 p-5">
+  <!--div class="col-span-full md:col-span-6 sm:col-span-9 border-l-2 border-r-2 p-5"-->
+    <h1>The City</h1>
+    <p>Chania is the capital of the Chania region on the island of Crete. The city can be divided in two parts, the old town and the modern city.</p>
+  <!--/div-->
+</article>
+
+<aside id="sidebar" class="col-span-full md:col-span-3 bg-gray-100">
+      <h2>What?</h2>
+      <p>Chania is a city on the island of Crete.</p>
+      <h2>Where?</h2>
+      <p>Crete is a Greek island in the Mediterranean Sea.</p>
+      <h2>How?</h2>
+      <p>You can reach Chania airport from all over Europe.</p>
+</aside>
+</div>
+
+<footer class="footer flex justify-center bg-blue-400">
+  <div>
+  <p>Resize the browser window to see how the content respond to the resizing.</p>
+  </div>
+</footer>
+
+</body>
+</html>

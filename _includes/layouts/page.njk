@@ -1,0 +1,22 @@
+---
+title: My page
+---
+{% include "./head.njk" %}
+<div id="left-sidebar" class="grid grid-cols-12 gap-4">
+  <div class="col-span-full md:col-span-3 sm:col-span-3 menu">
+    
+</div>
+<article class="col-span-full md:col-span-6 sm:col-span-9 border-l-2 border-r-2 p-5">
+  {{ content | safe }}
+</article>
+
+<aside id="sidebar" class="col-span-full md:col-span-3 bg-gray-100">
+      <h2>What?</h2>
+      <p>Chania is a city on the island of Crete.</p>
+      <h2>Where?</h2>
+      <p>Crete is a Greek island in the Mediterranean Sea.</p>
+      <h2>How?</h2>
+      <p>You can reach Chania airport from all over Europe.</p>
+</aside>
+</div>
+{% include "./footer.njk" %}
