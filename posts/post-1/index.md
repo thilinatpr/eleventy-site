@@ -1,4 +1,6 @@
 ---
+mySlug: this-is-a-my-slug
+permalink: "subdir/{{ mySlug }}/index.html"
 layout: post.njk
 title: My first post
 author: Thilina R.
