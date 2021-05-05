@@ -1,17 +1,15 @@
 {% include "./head.njk" %}
 <div class="mx-5 md:flex md:flex-row">
 <article class="bg-gray-50 border-2 mr-5 p-4 rounded-md md:flex md:flex-col md:w-8/12">
+<h1> {{title}} </h1>
+<div id="post-meta" class="text-sm text-gray-500 italic">
+  <p>
+    <span>Update on {{ page.date.toDateString() }} </span>
+    <span>by {{ author}}</span>
+  </p>
+</div>
 <div class="mt-6 text-md">
   {{ content | safe }}
-  <h2 class="px-4 py-2 text-gray-50 bg-blue-900 border-b rounded-md rounded-b-none border-black">All articles</h2>
-      <div class="px-1">
-      {%- for post in collections.posts %}
-      <div class="flex flex-col border-4 rounded-md my-4">
-        <a class="flex w-full bg-gray-200 px-2 py-2 hover:text-blue-900" href="{{ post.url }}">>> {{ post.data.title }}</a>
-        <div class="flex text-black"><p class="p-2">{{ post.data.page.excerpt }}</P></div>
-      </div>
-      {%- endfor %}
-      </div>
 </div>
 </article>
 

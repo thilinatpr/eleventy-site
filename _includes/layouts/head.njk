@@ -3,6 +3,7 @@
 <head>
 <title>{{ title }}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="stylesheet" href="/index.css">
 <script>
 function toggleMenu() {
@@ -12,34 +13,28 @@ function toggleMenu() {
 
 </script>
 </head>
-<body>
-<header>
-<div class="bg-blue-400 drop-shadow-lg">
-  <nav class="flex items-center justify-between flex-wrap bg-teal-500 p-6">
-  <div class="flex items-center flex-shrink-0 text-white mr-6">
-    <span class="font-semibold text-xl tracking-tight">WaterLeakGuide.com</span>
-  </div>
-  <div class="block sm:hidden">
-    <button class="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white" onclick="toggleMenu()">
-      <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
-    </button>
-  </div>
-  <div class="w-full block flex-grow sm:flex sm:items-center sm:w-auto">
-    <div id="navlinks" class="hidden sm:block text-sm">
-      <a href="#responsive-header" class="block mt-4 sm:inline-block sm:mt-0 text-teal-200 hover:text-white mr-4">
-        Docs-mod2
-      </a>
-      <a href="#responsive-header" class="block mt-4 sm:inline-block sm:mt-0 text-teal-200 hover:text-white mr-4">
-        Examples
-      </a>
-      <a href="#responsive-header" class="block sm-4 sm:inline-block sm:mt-0 text-teal-200 hover:text-white">
-        Blog
-      </a>
+<body class="">
+<div class="max-w-sm mx-auto bg-white pt-28 sm:max-w-screen-md md:max-w-screen-xl">
+  <header>
+  <div class="fixed inset-x-0 top-0 bg-gray-100 shadow-md">
+    <nav class="mx-auto flex items-center  py-3 px-8 md:max-w-screen-xl">
+      <div class="md:hidden">
+        <button class="border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white" onclick="">
+          <svg class="fill-current h-6 w-6" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
+        </button>
+      </div>
+      <div class="flex-shrink-0 text-white mx-6 md:ml-0">
+        <a href="/" ><img class="h-16" src="/logo.png" alt="test"/></a>
+      </div>
+      <div id="navlinks" class="hidden text-sm gap-4 md:flex md:justify-between">
+        <a href="/" class="">Home</a>
+        <a href="" class="">All Articles</a>
+        <a href="" class="">Contact Us</a>
+      </div>
+      <div id="navlinks-sm" class="flex justify-between text-sm ml-4 gap-4 md:hidden">
+        <a href="/" class="">Home</a>
+        <a href="" class="">Articles</a>
+      </div>
+    </nav>
     </div>
-    <div class="hidden">
-      <a href="#" class="inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white mt-4 lg:mt-0">Download</a>
-    </div>
-  </div>
-  </nav>
-</div>
-</header>
+  </header>
