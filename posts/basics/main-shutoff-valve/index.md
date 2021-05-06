@@ -13,11 +13,11 @@ Usually, you are not allowed to operate the main shut off valve located before t
 If you observe any faults or leaks of the main shut off valve belongs to the city, contact them as soon as possible to report the situation.
 
 <figure>
-<img src="/assets/main-shutoff-valve/img/main-shutoff_600x338.webp" srcset="/assets/main-shutoff-valve/img/main-shutoff_360x203.webp 360w, /assets/main-shutoff-valve/img/main-shutoff_475.webp 475w, /assets/main-shutoff-valve/img/main-shutoff_600x338.webp 600w" loading="lazy" alt="Main shutoff" sizes="calc(100vw-10px)"/>
+<img width="600" height="338" src="/assets/main-shutoff-valve/img/main-shutoff_600x338.webp" srcset="/assets/main-shutoff-valve/img/main-shutoff_360x203.webp 360w, /assets/main-shutoff-valve/img/main-shutoff_475.webp 475w, /assets/main-shutoff-valve/img/main-shutoff_600x338.webp 600w" loading="lazy" alt="Main shutoff" sizes="calc(100vw-10px)"/>
 <figcaption>Water Meter Pit</figcaption>
 </figure>
 <figure>
-<img src="/assets/main-shutoff-valve/img/open-shutoff-box_360x194.webp" srcset="/assets/main-shutoff-valve/img/open-shutoff-box_360x194.webp 360w,/assets/main-shutoff-valve/img/open-shutoff-box_600x323.webp 600w" loading="lazy" alt="Main shutoff" sizes="calc(100vw-10px)"/>
+<img width="600" height="323" src="/assets/main-shutoff-valve/img/open-shutoff-box_600x323.webp" srcset="/assets/main-shutoff-valve/img/open-shutoff-box_360x194.webp 360w,/assets/main-shutoff-valve/img/open-shutoff-box_600x323.webp 600w" loading="lazy" alt="Main shutoff" sizes="calc(100vw-10px)"/>
 <figcaption>Water Meter Pit Cover</figcaption>
 </figure>
 
