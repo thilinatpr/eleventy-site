@@ -1,0 +1,52 @@
++ Basics
+
+++ Water Meter
+++ Main Shut off valve
+++ Shutoff valves or angle stops
+++ Water Pressure
+    - Standaard pressure limit (adequate) > 45 - 60 pipes
+    - pressure can be measured using a pressure gauge screwed to hose bibb
+    - pressures over 60 psi causes damages to plumbing fixtures causes burst
+
+    Possible causes of low or no water pressure
+        - Bad diverter valve for a spray nozzle
+        - Bad diverter valve for a spray nozzle
+        - Clogged strainers just inside hose connections
+        - Clogged Showerhead
+        - Frozen or freezing pipes
+++ Frozen pipes
+    - How to detect? and what to do ?
+    Blocked or restricted water flow is the first indication of a problem. If you don't act quickly your pipes will burst as the water expands.
+    
+    At the first sign of a blockage, open the faucet. Finding the blockage is critical. Trace the supply pipe to where it runs through exterior walls or other unheated parts of your house,such as the basement or crawl space. To melt the ice,use hot water, a heat gun, hair dryer or heating pad.It is far better to adopt the slower and more conservative procedure'of melting ice by the use of a blow dryer or heat gun.
+
+    Shield flammable materials from the heat.While applying heat, leave the faucet open so water can drain. Once the ice melts and the pipes cool, prevent them from refreezing by jacketing them with foam insulation. Wrap all pipes that pass through unheated spaces. Pipes buried outdoors should run about 12 inches below the frost line and should be wrapped with foam insulation extending below frost line. If you expect a freeze, leave exposed taps dripping to prevent frozen pipes.
+
+    - How to prevent freezing
+
+    Water pipes that are exposed to freezing temperatures or drafts should be covered with insulation.When pipes are laid underground they should be below the frost line to prevent freezing. Small water pipes will freeze quicker than waste or sewer pipes.
+
+    If there is plumbing in the garage, do not leave the garage door open during severely cold weather. The cold and draft can freeze water lines in minutes. Pipes located in unheated basements or garages should be insulated with a commercial covering.
+
+    Before the cold freezing weather sets in, disconnect all garden hoses outside your home; otherwise the hose and hose bib may freeze and be damaged. This is especially important with anti-freeze hydrants. If tbe hose is disconnected,the anti-freeze faucet can properly drain, and this will prevent freezing.
+
+    If your home is going to be unattended for a long period of time during cold weather and the heating system is turned off, follow the following precations:
+        - Shut off the water supply at the master valve.
+        - BeginniDg with fixtures on thetop floor, open all faucets and leave them open. When water stops running from these faucets, open the cap on the main shutoff valve and drain the remaining water into a pail or tub.
+        - Remember to close the cap after the faucets have run dry.Otherwise the house water supply will flow from this valve and flood the basement.
+        - Remove all water in the traps under sinks, toilets, bathtubs, and lavatories by opening the clean out plugs at the bottom of traps and draining them into a pail. If no plugs are provided, use a force pump or other method to siphon the water out.
+        - Sponge all the water out of the toilet bowl.
+        - Clean out all water in the flush tank. 
+        - Fill all traps with a non-freezing solution such as mineral oil, windshield washmg fluid or RV type anti-freeze.
+        - Drain all hot water tanks. Most tanks are equipped with a vented tube at the top, which lets air in and allows the water to drain out the faucet at the bottom.
+        - Make sure all horizontal pipes drain properly.Air pressure will get rid of trapped water in these pipes, but occasionally the piping may have to be disconnected and drained. To be safe, have your plumber check your entire plumbing system.
+        - If your house is heated by hot water or steam, drain the heating pipes and boiler before leaving.
+        - Burners and pilots should be completely out and the main water supply turned off.
+        - Drain off the water from the boiler by opening the draw-off valve at the lowest point in the system. Open the water supply valve to the boiler so no water will be trapped above it.
+        - If you have a hot water system, begin with the highest radiators and open the air valve on each as fast as the water owers. Every radiator valve must be opened on a 1-inch pipe system to release candensation.
+
+++ Water Hammers
+
+    Ever hear a slamming or banging noise in your water pipes when someone shuts off a faucet?That sound is called a water hammer. It is caused by the sudden change of water flow, with resulting pressure surges,which makes pipes vibrate.
+    
+    Over time, recurring water hammers can loosen the mounting brackets that attach the pipes to the studs and joists in your home, leading to more movement and risk of leakage in joints and fittings. It can even cause a poorly soldered joint or fitting to completely break!To minimize water hammers, secure pipes to prevent movement and reduce sudden pressure variations.Various devices are available that reduce the abrupt changes in water pressure.
