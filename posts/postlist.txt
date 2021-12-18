@@ -10,11 +10,13 @@
 
     Possible causes of low or no water pressure
         - Bad diverter valve for a spray nozzle
-        - Bad diverter valve for a spray nozzle
+        - Clogged water filter attached to a faucet
         - Clogged strainers just inside hose connections
         - Clogged Showerhead
         - Frozen or freezing pipes
 ++ Frozen pipes
+    
+    
     - How to detect? and what to do ?
     Blocked or restricted water flow is the first indication of a problem. If you don't act quickly your pipes will burst as the water expands.
     

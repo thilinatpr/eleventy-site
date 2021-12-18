@@ -1,0 +1,20 @@
+water pressure regulator
+water pressure gauge
+water pressure booster
+water pressure tank
+water pressure booster pump
+water pressure low in house
+water pressure reducing valve
+water pressure pump
+water pressure valve
+
+water pressure in house
+                    - is low
+                    - dropped
+                    - too highes
+                    - suddenly high
+                    - drops when sprinklers are on
+                    - is weak
+                    - incresed
+                    - suddenly low
+                    - is high
